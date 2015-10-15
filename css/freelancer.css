@@ -1,0 +1,49 @@
+/* Inserta tu código aqui */
+.aqua{
+	background-color: #00CC99
+}
+div hr {
+	height: 4px;
+	width: px;
+  	margin-top: 1px;
+  	margin-bottom: 1px;
+  	border: 0;
+  	border-top: 10px solid #ecf0f1;
+}
+
+#header {
+	height:20% ;
+	background-color: #848484;
+	position: ;
+	top: 0%;
+	width: 100%;
+	padding-top: 1%;
+	border-bottom:solid #848484 1px;
+}
+nav ul{
+	list-style-type:none;
+	padding-top: 1.3%;
+	float: left;
+	font-size: 15px;
+	text-transform: uppercase;
+	margin-left:60px; 				/*Margen para llevar el menú al extremo derecho*/
+}
+nav li{
+	position: relative;
+	padding: 0;
+	margin: 0;
+	float: left;
+}
+nav li:hover a{
+	color: black;
+}
+nav a{
+	text-decoration: none;
+	padding: 10px 15px;
+	color: white;
+	font-family: helvetica;
+	text-align: center;
+}
+.espacio{
+	margin-top: 10%;
+}
